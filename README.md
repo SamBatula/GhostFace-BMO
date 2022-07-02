@@ -4,12 +4,16 @@ Getting Started
 First, run the development server:
 
 Open command line
-cd bmo
-cd bmowebsite
-then ...
-npm run dev
+- cd bmo
+- cd bmowebsite
+- then ...
+- npm run dev
+
+
 or
-yarn dev
+- yarn dev
+
+
 Open http://localhost:3000 with your browser to see the result.
 
 If any errors, install Yarn:
