@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.firstdiv{
+      background-image: url('cover.jpg');
+      background-repeat: no repeat;
+       background-size: 500px;
+       background-position: center;
+      
+      height: 110vh;
+      width:100%;
+     
+}
