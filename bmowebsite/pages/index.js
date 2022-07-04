@@ -47,7 +47,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://magiceden.io/marketplace/bmo_access_pass" className={styles.card}
+            href="https://bmo.floppylabs.io" className={styles.card}
           >
             <h2>Stake Access Pass &rarr;</h2>
             <p>Earn $BMO. Enter raffles!</p>

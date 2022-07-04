@@ -5,7 +5,7 @@ body {
   margin: 0;
   font-family: "Nunito";
     color: white;
-    background-image: url('../public/bmo.png');
+    background-image: url('https://github.com/MaktubHQ/bmo/blob/main/bmowebsite/public/bmo.png?raw=true');
       background-repeat: no repeat;
        background-size: 33%;
        background-position: center;
