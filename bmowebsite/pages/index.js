@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>BMO_GF</title>
+        <title>BMO Ghostface</title>
         <meta name="description" content="Welcome to BMO. IYKYK" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
