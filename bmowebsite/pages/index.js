@@ -18,8 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          The #1 subDAO!{' '}
-          <code className={styles.code}></code>
+          The #1 subDAO!
         </p>
 
         <div className={styles.grid}>
@@ -34,29 +33,40 @@ export default function Home() {
           </a>
 
           <a
-            href="https://magiceden.io/marketplace/ghostface_gen_2"
-            className={styles.card}
+            href="https://magiceden.io/marketplace/ghostface_gen_2?attributes=%7B%22Cloak%22%3A%5B%5D%2C%22Clothes%22%3A%5B%5D%2C%22Eyes%22%3A%5B%22BMO%22%5D%7D" className={styles.card}
           >
             <h2>Magic Eden &rarr;</h2>
-            <p>Check out Ghostface GEN 2 on Magic Eden now!</p>
+            <p>BMO Ghostface!</p>
+          </a>
+
+          <a
+            href="https://magiceden.io/marketplace/bmo_access_pass" className={styles.card}
+          >
+            <h2>BMO Access Pass &rarr;</h2>
+            <p>Wen Utility? IYKYK!</p>
+          </a>
+
+          <a
+            href="https://magiceden.io/marketplace/bmo_access_pass" className={styles.card}
+          >
+            <h2>Stake Access Pass &rarr;</h2>
+            <p>Earn $BMO. Enter raffles!</p>
           </a>
 
         </div>
-         
-         
          </div>
        
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://twitter.com/maktublabs"
           target="_blank"
           rel="noopener noreferrer"
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/maktub2.png" alt="Vercel Logo" width={75} height={75} />
           </span>
         </a>
       </footer>

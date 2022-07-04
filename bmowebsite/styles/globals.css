@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Nunito";
+    color: white;
+    background-image: url('../public/bmo.png');
+      background-repeat: no repeat;
+       background-size: 33%;
+       background-position: center;
+      height: auto;
+      width:100%;
 }
 
 a {
@@ -15,13 +22,19 @@ a {
   box-sizing: border-box;
 }
 
-.firstdiv{
-      background-image: url('https://raw.githubusercontent.com/MaktubHQ/bmo/f00652ac25e690259667a97fd6ecf574a1e448fb/cover.jpg');
+/* .firstdiv{
+      background-image: url('../public/bmo.png');
       background-repeat: no repeat;
-       background-size: 500px;
+       background-size: 33%;
        background-position: center;
-      
-      height: 110vh;
+      height: auto;
       width:100%;
      
-}
+} */
+/* .firstdiv:before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+  background: rgba(0,0,0,.5);
+} */
