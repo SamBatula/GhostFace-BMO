@@ -1,3 +1,11 @@
+FINAL PRODUCT: Website
+https://bmo-2k2ofyerm-maktub.vercel.app/
+
+
+IMAGE OF WEBSITE: 
+<img width="1469" alt="Screenshot 2023-04-01 at 2 27 04 PM" src="https://user-images.githubusercontent.com/62612898/229308172-856a6bac-2432-424c-9563-5eab01910905.png">
+
+
 This is a Next.js project bootstrapped with create-next-app.
 
 Getting Started
